@@ -1,0 +1,26 @@
+[
+  {
+    "day": "25",
+    "month": "FEB",
+    "categoryClass": "comedy",
+    "categoryName": "Stand-Up Comedy",
+    "title": "Open Mic San Pedro",
+    "description": "Tu dosis semanal de risas garantizadas. Todos los miércoles.",
+    "time": "20:00 hrs",
+    "location": "Local San Pedro",
+    "price": "Entrada Liberada",
+    "delay": "0s"
+  },
+  {
+    "day": "26",
+    "month": "FEB",
+    "categoryClass": "music",
+    "categoryName": "Música en Vivo",
+    "title": "Tributo Red Hot Chili Peppers",
+    "description": "El Burger Stage se enciende con el mejor tributo, a cargo de Concepeppers.",
+    "time": "20:00 hrs",
+    "location": "Local Diagonal",
+    "price": "Entrada Liberada",
+    "delay": "0.1s"
+  }
+]
