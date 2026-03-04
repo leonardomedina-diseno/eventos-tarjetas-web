@@ -1,15 +1,15 @@
 [
   {
-    "day": "15",
+    "day": "6",
     "month": "MARZO",
-    "title": "CHAMPIONS LEAGUE",
-    "subtitle": "REAL MADRID VS MAN. CITY",
-    "image": "img/futbol.jpeg",
+    "title": "LIGA CHILENA",
+    "subtitle": "DEPORTES CONCE VS ÑUBLENSE",
+    "image": "https://fmpulso.cl/wp-content/uploads/2017/04/pelota-de-futbol-9716.jpg",
     "sport": "FÚTBOL",
-    "time": "16:00 HRS",
+    "time": "20:30 HRS",
     "logos": [
-      "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/1200px-Real_Madrid_CF.svg.png",
-      "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/1200px-Manchester_City_FC_badge.svg.png"
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Escudo_Deportes_Concepci%C3%B3n.svg/960px-Escudo_Deportes_Concepci%C3%B3n.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/9/9f/%C3%91ublense.png"
     ]
   },
   {
@@ -17,7 +17,7 @@
     "month": "MARZO",
     "title": "NBA PLAYOFFS",
     "subtitle": "LAKERS VS WARRIORS",
-    "image": "img/basket.jpg",
+    "image": "https://fmpulso.cl/wp-content/uploads/2017/04/pelota-de-futbol-9716.jpg",
     "sport": "BÁSQUETBOL",
     "time": "21:00 HRS",
     "logos": [
