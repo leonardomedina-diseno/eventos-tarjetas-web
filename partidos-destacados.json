@@ -1,0 +1,53 @@
+[
+  {
+    "day": "15",
+    "month": "MARZO",
+    "title": "CHAMPIONS LEAGUE",
+    "subtitle": "REAL MADRID VS MAN. CITY",
+    "image": "img/futbol.jpeg",
+    "sport": "FÚTBOL",
+    "time": "16:00 HRS",
+    "logos": [
+      "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/1200px-Real_Madrid_CF.svg.png",
+      "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/1200px-Manchester_City_FC_badge.svg.png"
+    ]
+  },
+  {
+    "day": "18",
+    "month": "MARZO",
+    "title": "NBA PLAYOFFS",
+    "subtitle": "LAKERS VS WARRIORS",
+    "image": "img/basket.jpg",
+    "sport": "BÁSQUETBOL",
+    "time": "21:00 HRS",
+    "logos": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Los_Angeles_Lakers_logo.svg/1200px-Los_Angeles_Lakers_logo.svg.png",
+      "https://upload.wikimedia.org/wikipedia/en/thumb/0/01/Golden_State_Warriors_logo.svg/1200px-Golden_State_Warriors_logo.svg.png"
+    ]
+  },
+  {
+    "day": "22",
+    "month": "MARZO",
+    "title": "ATP MASTERS 1000",
+    "subtitle": "ALCARAZ VS MEDVEDEV",
+    "image": "img/tenis.jpg",
+    "sport": "TENIS",
+    "time": "14:00 HRS",
+    "logos": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_Spain.svg/1200px-Flag_of_Spain.svg.png",
+      "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/1200px-Flag_of_Russia.svg.png"
+    ],
+    "logosStyle": "border-radius: 8px;"
+  },
+  {
+    "day": "28",
+    "month": "MARZO",
+    "title": "UFC 300",
+    "subtitle": "EVENTO PRINCIPAL",
+    "image": "img/mma-jaula.jpg",
+    "sport": "MMA",
+    "time": "23:00 HRS",
+    "logos": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/UFC_logo.svg/1200px-UFC_logo.svg.png",
+    "logosStyle": "width: auto; padding: 10px 20px; border-radius: 8px;"
+  }
+]
